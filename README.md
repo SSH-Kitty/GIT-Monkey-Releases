@@ -20,11 +20,13 @@ team is working on, all without the command line.
 
 <br>
 
+<a href="docs/screenshots/changes-dark.png">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/changes-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="docs/screenshots/changes-light.png">
   <img alt="GIT Monkey Changes view: pick the files and parts to commit, with a colored diff" src="docs/screenshots/changes-dark.png" width="100%">
 </picture>
+</a>
 
 </div>
 
@@ -128,28 +130,28 @@ on the latest version.
 
 <table>
 <tr>
-<td width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/files-light.png"><img src="docs/screenshots/files-dark.png" alt="Files view with the built-in editor"></picture><p align="center"><sub><b>Files</b>: browse, search and edit with syntax highlighting</sub></p></td>
-<td width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/history-light.png"><img src="docs/screenshots/history-dark.png" alt="History view with a branch graph"></picture><p align="center"><sub><b>History</b>: every snapshot, with a branch graph</sub></p></td>
+<td width="50%"><a href="docs/screenshots/welcome-dark.png"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/welcome-light.png"><img src="docs/screenshots/welcome-dark.png" alt="Welcome screen"></picture></a><p align="center"><sub><b>Welcome</b>: checks your setup and signs you in to GitHub</sub></p></td>
+<td width="50%"><a href="docs/screenshots/team-dark.png"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/team-light.png"><img src="docs/screenshots/team-dark.png" alt="Team view showing what teammates are working on"></picture></a><p align="center"><sub><b>Team</b>: who's working on what, right now</sub></p></td>
 </tr>
 <tr>
-<td width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/prs-light.png"><img src="docs/screenshots/prs-dark.png" alt="Pull requests view"></picture><p align="center"><sub><b>Pull requests</b>: reviews and checks at a glance</sub></p></td>
-<td width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/issue-light.png"><img src="docs/screenshots/issue-dark.png" alt="An issue opened inside the app"></picture><p align="center"><sub><b>Issues</b>: read and reply without leaving the app</sub></p></td>
+<td width="50%"><a href="docs/screenshots/files-dark.png"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/files-light.png"><img src="docs/screenshots/files-dark.png" alt="Files view with the built-in editor"></picture></a><p align="center"><sub><b>Files</b>: browse, search and edit with syntax highlighting</sub></p></td>
+<td width="50%"><a href="docs/screenshots/history-dark.png"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/history-light.png"><img src="docs/screenshots/history-dark.png" alt="History view with a branch graph"></picture></a><p align="center"><sub><b>History</b>: every snapshot, with a branch graph</sub></p></td>
 </tr>
 <tr>
-<td width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/issues-light.png"><img src="docs/screenshots/issues-dark.png" alt="Issues list with labels"></picture><p align="center"><sub><b>Issues list</b>: bugs, ideas and to-dos with labels</sub></p></td>
-<td width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/actions-light.png"><img src="docs/screenshots/actions-dark.png" alt="Actions view"></picture><p align="center"><sub><b>Actions</b>: checks after each push, and why one failed</sub></p></td>
+<td width="50%"><a href="docs/screenshots/prs-dark.png"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/prs-light.png"><img src="docs/screenshots/prs-dark.png" alt="Pull requests view"></picture></a><p align="center"><sub><b>Pull requests</b>: reviews and checks at a glance</sub></p></td>
+<td width="50%"><a href="docs/screenshots/errhelp-dark.png"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/errhelp-light.png"><img src="docs/screenshots/errhelp-dark.png" alt="A Git error explained in plain English"></picture></a><p align="center"><sub><b>Errors in plain English</b>: what went wrong, and a one-click fix</sub></p></td>
 </tr>
 <tr>
-<td width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/team-light.png"><img src="docs/screenshots/team-dark.png" alt="Team view showing what teammates are working on"></picture><p align="center"><sub><b>Team</b>: who's working on what, right now</sub></p></td>
-<td width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/releases-light.png"><img src="docs/screenshots/releases-dark.png" alt="Releases view"></picture><p align="center"><sub><b>Releases</b>: publish versions people can download</sub></p></td>
+<td width="50%"><a href="docs/screenshots/issue-dark.png"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/issue-light.png"><img src="docs/screenshots/issue-dark.png" alt="An issue opened inside the app"></picture></a><p align="center"><sub><b>Issues</b>: read and reply without leaving the app</sub></p></td>
+<td width="50%"><a href="docs/screenshots/actions-dark.png"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/actions-light.png"><img src="docs/screenshots/actions-dark.png" alt="Actions view"></picture></a><p align="center"><sub><b>Actions</b>: checks after each push, and why one failed</sub></p></td>
 </tr>
 <tr>
-<td width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/errhelp-light.png"><img src="docs/screenshots/errhelp-dark.png" alt="A Git error explained in plain English"></picture><p align="center"><sub><b>Errors in plain English</b>: what went wrong, and a one-click fix</sub></p></td>
-<td width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/welcome-light.png"><img src="docs/screenshots/welcome-dark.png" alt="Welcome screen"></picture><p align="center"><sub><b>Welcome</b>: checks your setup and signs you in to GitHub</sub></p></td>
+<td width="50%"><a href="docs/screenshots/issues-dark.png"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/issues-light.png"><img src="docs/screenshots/issues-dark.png" alt="Issues list with labels"></picture></a><p align="center"><sub><b>Issues list</b>: bugs, ideas and to-dos with labels</sub></p></td>
+<td width="50%"><a href="docs/screenshots/releases-dark.png"><picture><source media="(prefers-color-scheme: light)" srcset="docs/screenshots/releases-light.png"><img src="docs/screenshots/releases-dark.png" alt="Releases view"></picture></a><p align="center"><sub><b>Releases</b>: publish versions people can download</sub></p></td>
 </tr>
 </table>
 
-<sub>Screenshots show a made-up demo project and people.</sub>
+<sub>Click a screenshot to see it full size. Screenshots show a made-up demo project and people.</sub>
 
 ## 📦 Install
 
