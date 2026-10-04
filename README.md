@@ -682,6 +682,12 @@ sed -i 's#SSH-Kitty/GIT-Monkey/#SSH-Kitty/GIT-Monkey-Releases/#Ig' latest.json
 | `docs/` | README banner, icons, diagrams and screenshots |
 | `mockup/` | The original clickable design mockup |
 
+
+## 📄 License
+
+GIT Monkey is free to use under its [End User License Agreement](LICENSE). It is not open source.
+It includes open-source components; see [third-party notices](THIRD_PARTY_NOTICES.txt).
+
 <br>
 
 <div align="center">
