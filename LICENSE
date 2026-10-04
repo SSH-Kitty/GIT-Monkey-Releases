@@ -9,8 +9,9 @@ This End User License Agreement ("Agreement") is a legal agreement between you
 GIT Monkey software, including its installers, updates, documentation and any
 related files (the "Software").
 
-By downloading, installing, copying or using the Software, you agree to this
-Agreement. If you do not agree, do not install or use the Software.
+You accept this Agreement by clicking "I accept" when the Software asks you
+to, or, where no such prompt is shown, by installing or using the Software.
+If you do not agree, do not install or use the Software.
 
 1. LICENSE GRANT
 
@@ -31,8 +32,7 @@ You may not, and may not allow anyone else to:
      the Software available to others, except by sharing a link to the
      official download page;
   b) reverse engineer, decompile, disassemble or try to obtain the source
-     code of the Software, except where applicable law expressly permits this
-     despite this restriction;
+     code of the Software, except as permitted by applicable law (see below);
   c) modify, translate or create derivative works of the Software;
   d) remove, alter or hide any copyright, trademark or other notice in the
      Software;
@@ -40,6 +40,14 @@ You may not, and may not allow anyone else to:
      activation, update or security feature of the Software;
   f) use the Software in breach of any law or of the terms of any third-party
      service it connects to.
+
+Nothing in this Agreement limits the rights you have under Articles 5(2),
+5(3) and 6 of Directive 2009/24/EC on the legal protection of computer
+programs, or under the laws that implement it, including Romanian Law no.
+8/1996 on copyright and related rights. In particular, you may make a backup
+copy where necessary for your use, observe, study and test how the Software
+works, and decompile it to the extent necessary to achieve interoperability
+with other programs, under the conditions set out in that law.
 
 3. FREE AND PAID FEATURES
 
@@ -111,16 +119,33 @@ rights.
 
 11. CHANGES TO THIS AGREEMENT
 
-We may update this Agreement from time to time. The updated version will be
-published with the Software and on its official download page. If you keep
-using the Software after an update, you accept the updated Agreement.
+We may update this Agreement from time to time, for example to reflect new
+features, changes in the law or new paid offerings. When we make a material
+change, the Software will show you the updated Agreement and ask you to
+accept it before you continue using it, and the updated version will also be
+published on the official download page.
+
+If you do not accept the updated Agreement, you may stop using the Software
+and uninstall it; the previous version continues to apply to any period you
+have already paid for. Changes never apply retroactively.
 
 12. GOVERNING LAW
 
 This Agreement is governed by the laws of Romania, without regard to its
-conflict-of-law rules. The courts of Romania have jurisdiction over any
-dispute, unless the mandatory law of your country of residence gives you the
-right to bring a claim there.
+conflict-of-law rules.
+
+If you are a consumer, this choice of law does not deprive you of the
+protection of the mandatory provisions of the law of the country where you
+live. You may bring proceedings against us either in Romania or in the courts
+of the country where you live, and we may bring proceedings against you only
+in the courts of the country where you live.
+
+If you are not a consumer, the competent courts of Romania have exclusive
+jurisdiction over any dispute arising out of or related to this Agreement.
+
+If you are a consumer in the European Union, you may also use the European
+Commission's list of alternative dispute resolution bodies or contact the
+Romanian National Authority for Consumer Protection (ANPC).
 
 13. GENERAL
 
