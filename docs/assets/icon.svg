@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- a little grunt in a hard hat, peeking out to do the git grunt work -->
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#232838"/><stop offset="1" stop-color="#0b0d13"/></linearGradient></defs><rect width="512" height="512" rx="112" fill="url(#bg)"/>
+<path d="M124 318 C124 196 184 132 256 132 C328 132 388 196 388 318 Z" fill="#f4a62a"/>
+<rect x="232" y="120" width="48" height="198" rx="20" fill="#ffc766"/>
+<rect x="80" y="304" width="352" height="48" rx="24" fill="#ffc766"/>
+<ellipse cx="206" cy="402" rx="22" ry="28" fill="#e7e9f1"/>
+<ellipse cx="306" cy="402" rx="22" ry="28" fill="#e7e9f1"/>
+<circle cx="212" cy="410" r="11" fill="#0b0d13"/><circle cx="312" cy="410" r="11" fill="#0b0d13"/>
+</svg>

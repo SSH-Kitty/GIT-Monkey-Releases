@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e4e7ef"/></linearGradient>
+<linearGradient id="tile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#232838"/><stop offset="1" stop-color="#0b0d13"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f4a62a" stop-opacity=".22"/><stop offset="1" stop-color="#f4a62a" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset=".74" stop-color="#fff" stop-opacity="0"/><stop offset=".86" stop-color="#fff" stop-opacity="1"/></linearGradient>
+<mask id="m"><rect width="1280" height="400" fill="url(#fade)"/></mask>
+</defs>
+<rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="1279" height="399" rx="24" fill="none" stroke="#d9dde8"/>
+<g mask="url(#m)" opacity=".7" fill="none" stroke-width="4" stroke-linecap="round">
+  <path d="M940 200 H1280" stroke="#f4a62a"/>
+  <path d="M1010 200 C1050 200 1050 110 1090 110 H1150 C1190 110 1190 200 1230 200" stroke="#3ccf8e"/>
+  <path d="M1050 200 C1090 200 1090 300 1130 300 H1280" stroke="#74a8ff"/>
+  <path d="M1170 300 C1200 300 1200 350 1230 350 H1280" stroke="#a98bff"/>
+</g>
+<g mask="url(#m)" opacity=".7" stroke="#e4e7ef" stroke-width="4">
+  <circle cx="990" cy="200" r="11" fill="#f4a62a"/><circle cx="1110" cy="110" r="11" fill="#3ccf8e"/><circle cx="1150" cy="110" r="11" fill="#3ccf8e"/>
+  <circle cx="1230" cy="200" r="14" fill="#f4a62a"/>
+  <circle cx="1145" cy="300" r="11" fill="#74a8ff"/><circle cx="1250" cy="300" r="11" fill="#74a8ff"/><circle cx="1250" cy="350" r="11" fill="#a98bff"/>
+</g>
+<circle cx="200" cy="200" r="190" fill="url(#glow)"/>
+<g transform="translate(90 90) scale(.4297)">
+  <rect width="512" height="512" rx="112" fill="url(#tile)"/>
+  <path d="M124 318 C124 196 184 132 256 132 C328 132 388 196 388 318 Z" fill="#f4a62a"/>
+  <rect x="232" y="120" width="48" height="198" rx="20" fill="#ffc766"/>
+  <rect x="80" y="304" width="352" height="48" rx="24" fill="#ffc766"/>
+  <ellipse cx="206" cy="402" rx="22" ry="28" fill="#e7e9f1"/><ellipse cx="306" cy="402" rx="22" ry="28" fill="#e7e9f1"/>
+  <circle cx="212" cy="410" r="11" fill="#0b0d13"/><circle cx="312" cy="410" r="11" fill="#0b0d13"/>
+</g>
+<g font-family="Geist, 'Geist Sans', Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <text x="368" y="178" font-size="92" font-weight="800" letter-spacing="-3" fill="#161925">Git <tspan fill="#9a5d00">Grunt</tspan></text>
+  <text x="372" y="234" font-size="28" font-weight="500" fill="#5a6177">Git and GitHub, without the command line.</text>
+  <rect x="372" y="276" width="80" height="34" rx="17" fill="#ffffff" stroke="#d9dde8"/><text x="412" y="298" text-anchor="middle" font-size="15" font-weight="500" fill="#5a6177">Commit</text>
+  <rect x="462" y="276" width="128" height="34" rx="17" fill="#ffffff" stroke="#d9dde8"/><text x="526" y="298" text-anchor="middle" font-size="15" font-weight="500" fill="#5a6177">Push &amp; pull</text>
+  <rect x="600" y="276" width="147" height="34" rx="17" fill="#ffffff" stroke="#d9dde8"/><text x="673" y="298" text-anchor="middle" font-size="15" font-weight="500" fill="#5a6177">Pull requests</text>
+  <rect x="757" y="276" width="80" height="34" rx="17" fill="#ffffff" stroke="#d9dde8"/><text x="797" y="298" text-anchor="middle" font-size="15" font-weight="500" fill="#5a6177">Issues</text>
+  <rect x="847" y="276" width="89" height="34" rx="17" fill="#ffffff" stroke="#d9dde8"/><text x="891" y="298" text-anchor="middle" font-size="15" font-weight="500" fill="#5a6177">Actions</text>
+  
+</g>
+</svg>
