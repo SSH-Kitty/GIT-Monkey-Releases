@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-<!-- a little grunt in a hard hat, peeking out to do the git grunt work -->
-<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#232838"/><stop offset="1" stop-color="#0b0d13"/></linearGradient></defs><rect width="512" height="512" rx="112" fill="url(#bg)"/>
-<path d="M124 318 C124 196 184 132 256 132 C328 132 388 196 388 318 Z" fill="#f4a62a"/>
-<rect x="232" y="120" width="48" height="198" rx="20" fill="#ffc766"/>
-<rect x="80" y="304" width="352" height="48" rx="24" fill="#ffc766"/>
-<ellipse cx="206" cy="402" rx="22" ry="28" fill="#e7e9f1"/>
-<ellipse cx="306" cy="402" rx="22" ry="28" fill="#e7e9f1"/>
-<circle cx="212" cy="410" r="11" fill="#0b0d13"/><circle cx="312" cy="410" r="11" fill="#0b0d13"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5cc98a"/><stop offset="1" stop-color="#1d6b44"/></linearGradient></defs><rect width="512" height="512" rx="112" fill="url(#g)"/><clipPath id="c"><rect width="512" height="512" rx="112"/></clipPath><g clip-path="url(#c)" fill="#17583a" opacity=".55"><path d="M-20 420Q60 360 150 400Q80 470-20 420z"/><path d="M532 400Q450 350 370 410Q450 470 532 400z"/><path d="M40 -10Q120 40 110 130Q30 70 40-10z"/><path d="M470-10Q390 40 400 130Q480 70 470-10z"/></g><circle cx="104" cy="262" r="42" fill="#33333d"/><circle cx="408" cy="262" r="42" fill="#33333d"/><circle cx="256" cy="262" r="156" fill="#3d3d48"/><g fill="#d8b294"><circle cx="208" cy="240" r="62"/><circle cx="304" cy="240" r="62"/><ellipse cx="256" cy="328" rx="112" ry="78"/></g><path d="M150 202Q256 170 362 202" stroke="#3d3d48" stroke-width="30" fill="none" stroke-linecap="round"/><g fill="#1c1c22"><circle cx="210" cy="250" r="14"/><circle cx="302" cy="250" r="14"/><ellipse cx="238" cy="306" rx="11" ry="8"/><ellipse cx="274" cy="306" rx="11" ry="8"/></g><path d="M214 360Q256 376 298 360" stroke="#1c1c22" stroke-width="12" fill="none" stroke-linecap="round"/></svg>
