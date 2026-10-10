@@ -14,6 +14,8 @@
 <a href="#1-download-git-monkey"><img alt="Linux: AppImage, deb and rpm" src="https://img.shields.io/badge/Linux-2b3a66?style=for-the-badge&logo=linux&logoColor=white"></a>
 <a href="https://tauri.app"><img alt="Built with Tauri 2" src="https://img.shields.io/badge/built%20with-Tauri%202-24c8db?style=for-the-badge&logo=tauri&logoColor=white&labelColor=1d2a4a"></a>
 
+<a href="https://github.com/SSH-Kitty/GIT-Monkey-Releases/releases/latest/download/GIT-Monkey-Guide.pdf"><img alt="Read the User Guide (PDF)" src="docs/assets/button-guide.svg" width="300"></a>
+
 ### A friendly desktop app for Git and GitHub
 
 Commit, branch, review pull requests and ship releases, all from one window.<br>
